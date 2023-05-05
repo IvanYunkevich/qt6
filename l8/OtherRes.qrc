@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>image/icon/1.png</file>
+        <file>image/icon/2.png</file>
+        <file>image/icon/3.png</file>
+        <file>image/icon/4.png</file>
+        <file>image/icon/5.png</file>
+        <file>image/icon/6.png</file>
+        <file>image/icon/7.png</file>
+        <file>image/icon/8.png</file>
+        <file>image/icon/9.png</file>
+        <file>image/icon/10.png</file>
+        <file>image/icon/11.png</file>
+        <file>image/icon/12.png</file>
+        <file>image/icon/13.png</file>
+        <file>image/icon/9_2.png</file>
+    </qresource>
+    <qresource prefix="/style/qss">
+        <file>Integrid.qss</file>
+        <file>Combinear.qss</file>
+    </qresource>
+    <qresource prefix="/language/qm">
+        <file>QtLanguage_en.qm</file>
+        <file>QtLanguage_ru.qm</file>
+    </qresource>
+</RCC>
