@@ -1,6 +1,0 @@
-Work Name: 12, Process: 1, End Date: 1.3.2023
-rk Name: , Process: 1, End Date: 1.1.2023
-Work Name: , Process: 1, End Date: 1.1.2023
-Work Name: , Process: 1, End Date: 1.1.2023
-Work Name: , Process: 1, End Date: 1.1.2023
-Work Name: , Process: 1, End Date: 1.1.2023
